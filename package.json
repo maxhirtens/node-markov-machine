@@ -1,0 +1,23 @@
+{
+  "name": "markov-machine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "makeText.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxhirtens/node-markov-machine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxhirtens/node-markov-machine/issues"
+  },
+  "homepage": "https://github.com/maxhirtens/node-markov-machine#readme",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "jest": "^29.3.1"
+  }
+}
